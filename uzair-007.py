@@ -30,7 +30,7 @@ except ImportError:
 
 	os.system("pip install futures")
 
-import os
+import ospytho
 
 import sys
 
